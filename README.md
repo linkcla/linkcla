@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Marc Link Cladera</h1>
-<h3 align="center">Estudiante de Ingeniería Informática</h3>
+<h3 align="center">Estudiante de 2º de Ingeniería Informática</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linkcla" alt="linkcla" /></a> </p>
 
-- 🌱 Actualmente me encuentro aprendiendo **Java, Python, HTML5**
+- 🌱 Actualmente me encuentro aprendiendo **Java, Python, HTML5, C y R**
 
 - 📫 Como contactar: **marclinkcladera@gmail.com**
 
