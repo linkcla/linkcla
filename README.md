@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linkcla" alt="linkcla" /></a> </p>
 
-- 🌱 Actualmente me encuentro aprendiendo **Java, Python, HTML5, C y R**
+- 🌱 Actualmente me encuentro aprendiendo **Java, Python, Lisp, PROLOG, C y R**
 
 - 📫 Como contactar: **marclinkcladera@gmail.com**
 
